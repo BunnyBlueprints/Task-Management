@@ -1,6 +1,7 @@
 # 📝 Task Management - MERN Stack Application
 
 **Task Management** is a full-stack web application built with the MERN stack that enables users to efficiently create, organize, and manage their daily tasks with a modern, intuitive interface.
+[![Live Demo](https://img.shields.io/badge/TASK_MANAGEMENT-LIVE_DEMO_-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=2bbc8a&labelColor=1a1a2e)](https://frontend-i6gnvrihv-vikas-singhs-projects-85a121fa.vercel.app/)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
